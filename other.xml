@@ -1,0 +1,22 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="65-66-0-255,,,66-54-0-255" />
+    <property name="InstalledPluginsSearchHistory" value="track" />
+    <property name="KEYMAP" value="previous tab&#10;bottom&#10;top&#10;SAVE DOC&#10;SAVE ALL" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="SettingsSearchHistory" value="sync&#10;next tab&#10;caret&#10;region&#10;outline" />
+    <property name="TrendingPluginsSearchHistory" value="ide settings&#10;settings sync" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.183" value="17" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Development/Spellbind/colin.day-main/RogueWizards/Game/Mainline/Unity/Assets&#10;/Users/colinday/Development/Spellbind/colin.day-main/RogueWizards/Game" />
+    <property name="fileTypeChangedCounter" value="13" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="selected.color.option.type" value="GUTTER_BACKGROUND" />
+    <property name="settings.code.style.selected.tab.C#" value="Line Breaks and Wrapping" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
