@@ -2,13 +2,15 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
-  <action id="EditorScrollBottom">
+  <action id="EditorSelectWord" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
-  <action id="EditorScrollTop">
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
-  <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta alt right" />
