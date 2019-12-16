@@ -1,7 +1,9 @@
 <application>
-  <component name="CodeLensSettings">
+  <component name="CodeLensSettings" enabled="false">
     <enabled>
-      <map />
+      <map>
+        <entry key="Usages" value="false" />
+      </map>
     </enabled>
   </component>
 </application>
