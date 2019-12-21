@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/ECMAScript 6/Convert function and its member declarations to class" />
+  </component>
+</application>
