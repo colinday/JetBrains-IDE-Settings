@@ -15,6 +15,7 @@
   </component>
   <component name="RiderCodeCompletionExtraSettings">
     <option name="allowToCompleteWithWhitespace" value="false" />
+    <option name="hasNotifiedAboutCompletingWithSpace" value="true" />
   </component>
   <component name="RiderDefaultCodeFoldingSettings">
     <option name="collapseRegions" value="false" />
