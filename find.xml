@@ -18,6 +18,7 @@
     <mask>*.prefab</mask>
     <mask>*.meta</mask>
     <mask>*.meta, *.prefab</mask>
+    <mask>*.cs, *.prefab</mask>
     <mask>*.cs</mask>
   </component>
 </application>
