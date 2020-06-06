@@ -30,5 +30,6 @@
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
