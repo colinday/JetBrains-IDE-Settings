@@ -4,12 +4,12 @@
     <property name="created">2019-11-17T11:09:02</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-04-22T18:20:51</property>
+    <property name="modified">2021-03-29T19:56:57</property>
     <property name="originalScheme">Rider Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="EDITOR_FONT_NAME" value="SF Mono" />
   <colors>
     <option name="CARET_ROW_COLOR" value="33312b" />
     <option name="SELECTION_BACKGROUND" value="293e4a" />
