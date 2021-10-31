@@ -66,12 +66,19 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="Replace" />
   <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="SaveDocument">
     <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="SwitchHeaderSource">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="o" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta k" />
@@ -81,4 +88,5 @@
     <keyboard-shortcut first-keystroke="shift delete" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ShowMessageHistory" />
 </keymap>
