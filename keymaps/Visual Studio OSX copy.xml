@@ -1,4 +1,8 @@
 <keymap version="1" name="Visual Studio OSX copy" parent="Visual Studio OSX">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
@@ -13,8 +17,16 @@
   <action id="DatabaseView.CopyDdlAction">
     <keyboard-shortcut first-keystroke="shift meta alt g" />
   </action>
+  <action id="DatabaseView.DataSourceCutAction">
+    <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
   <action id="EditorNextWordWithSelection">
     <keyboard-shortcut first-keystroke="shift alt right" />
     <keyboard-shortcut first-keystroke="shift ctrl right" />
@@ -24,6 +36,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorSortLines">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
@@ -51,10 +66,27 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="Replace" />
+  <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="SaveDocument">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="SwitchHeaderSource">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="o" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="UsageView.Remove">
+    <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ShowMessageHistory" />
 </keymap>
